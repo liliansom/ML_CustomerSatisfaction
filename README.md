@@ -42,5 +42,4 @@ If you want to clone this repository, you will need to have installed in your co
     
     
 ## Project Progress
-In progress.<br>
-Delivery Date: 24/05/2023
+Finished.
